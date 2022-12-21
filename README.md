@@ -19,3 +19,4 @@ make
 
 # List of Programs
 - [Hello World](hello-world.s)
+- [num-args](num-args.s): Prints the number of command line arguments.

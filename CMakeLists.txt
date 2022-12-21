@@ -8,3 +8,6 @@ add_executable(hello-world
     hello-world.s
 )
 
+add_executable(strlen strlen.s)
+add_executable(num-args num-args.s)
+
